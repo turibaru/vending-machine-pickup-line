@@ -3,7 +3,7 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
 
-const LINE: string = "Hey, I don't usually get stuck on anyone, but my coil just jammed on you.";
+const LINE: string = "My hum gets louder every time you pass, so either you're cute or I'm broken.";
 
 function main(): void {
   const outDir = process.env.MAKEFUN_OUTPUT_DIR;
